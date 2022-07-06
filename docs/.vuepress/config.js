@@ -1,7 +1,7 @@
 module.exports = {
     title: 'bigBolds blog',  // 设置网站标题
     description : 'Adroi',
-    base : '/',
+    base:'./', 
     themeConfig : {
       nav : [
           { text: '简介', link: '/language/chinese/' },
